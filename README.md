@@ -1,2 +1,2 @@
 # hello-world
-Tutorial 
+I want to learn more about git
